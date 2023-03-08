@@ -1,0 +1,4 @@
+Suma = 80
+Media = 20.0
+Min = 2
+Max = 41
